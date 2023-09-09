@@ -1,0 +1,5 @@
+slack-bolt
+python-dotenv~=1.0.0
+langchain~=0.0.275
+flask~=2.3.3
+huggingface_hub
