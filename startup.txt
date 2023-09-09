@@ -1,0 +1,2 @@
+gunicorn --bind=0.0.0.0 --timeout 600 --chdir bot_essay app:flask_app
+gunicorn --bind=0.0.0.0 --timeout 600 --chdir bot_email app:flask_ap
